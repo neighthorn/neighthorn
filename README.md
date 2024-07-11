@@ -1,6 +1,6 @@
-- 👋 Hi, I’m sxy, first-year master student at Renmin Unversity
-- 👀 I’m interested in cloud-native database, distributed database
-- 📫 How to reach me **sxy2001@ruc.edu.cn**
+- 👋 Hi, I’m sxy, a first-year PhD student at Renmin University
+- 👀 I’m interested in cloud-native database and query re-optimizations
+- 📫 How to reach me **xinyueshi@ruc.edu.cn**
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=neighthorn&show_icons=true&locale=en" alt="yousiki" />
