@@ -3,7 +3,7 @@
 - 📫 How to reach me **xinyueshi@ruc.edu.cn**
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=neighthorn&show_icons=true&locale=en" alt="yousiki" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=neighthorn&show_icons=true&locale=en" alt="empty" />
 </p>
 
 <!---
